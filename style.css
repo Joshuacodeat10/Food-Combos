@@ -1,0 +1,39 @@
+#btn-generate{
+    padding: 10px;
+    border: 1px solid brown;
+    background-color: brown;
+    color:white;
+    border-radius:2px;
+    
+}
+.nav-item{
+    font-family: 'Raleway', sans-serif;
+    color:white;
+     margin-left:15px;
+    }
+      .nav-item:hover{
+        font-family: 'Raleway', sans-serif;
+        color:white;
+        font-size: 16px;
+         margin-left:15px;
+          }
+#btn-cereal{
+    padding: 10px;
+    border: 1px solid brown;
+    background-color: brown;
+    color:white;
+    border-radius:2px;
+    
+}
+#phrase{
+    font-weight: bold;
+    color:red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#phrase2{
+    font-weight: bold;
+    color:red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
